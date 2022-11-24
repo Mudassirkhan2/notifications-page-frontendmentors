@@ -1,5 +1,6 @@
 # notifications-page-frontendmentors
 notifications-page-frontendmentors is js practice 
+site url :https://dreamy-beijinho-ad6a6c.netlify.app/
  Distinguish between "unread" and "read" notifications
 - Select "Mark all as read" to toggle the visual state of the unread notifications and set the number of unread messages to zero
 - View the optimal layout for the interface depending on their device's screen size
